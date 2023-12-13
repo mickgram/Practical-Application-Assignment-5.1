@@ -3,7 +3,7 @@
 ## Student: Mick Gram
 ## Submitted: 12/12/23
 
-## Link to Jupytor Notebook with answers and finding: ...
+## Link to Jupytor Notebook with answers and finding: https://github.com/mickgram/Practical-Application-Assignment-5.1/blob/main/prompt.ipynb
 ##
 # Summary of findings:
 ##  Drivers that most likely accept the coupon are:
