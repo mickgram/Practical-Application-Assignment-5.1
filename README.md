@@ -20,7 +20,7 @@ The data used for the data analysis assignment comes from the UCI Machine Learni
 ### Carry out & Take away:
 ###     - Acceptance rate is higher than generally at 73.55%
 ###     - Way higher activity when it is sunny
-###     - Majority goes 1-8 time with fairly even level for 1-3 and 4-8.
+###     - Majority goes 1-8 times with fairly even level for 1-3 and 4-8.
 #
 ## Link to Jupytor Notebook with answers and findings: https://github.com/mickgram/Practical-Application-Assignment-5.1/blob/main/prompt.ipynb
 
