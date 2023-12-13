@@ -1,11 +1,13 @@
 # Practical-Application-Assignment-5.1
+## Course: Professional Certificate in Machine Learning and Artificial Intelligence
 ## Student: Mick Gram
-
-## Link to assignment including data: https://mo-pcco.s3.us-east-1.amazonaws.com/BH-PCMLAI/module_5/assignment_5_1_starter.zip
+## Submitted: 12/12/23
 
 ## Link to Jupytor Notebook with answers and finding: ...
-
-## Summary of findings
-
+##
+# Summary of findings:
+##  Drivers that most likely accept the coupon are:
+## - younger demographic 26 and younger 
+## - go to a bar 3 or fewer times per month
 
 
